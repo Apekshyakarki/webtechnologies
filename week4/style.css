@@ -1,0 +1,15 @@
+@import url();
+*{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    background-color: rgb(24, 44, 54);
+    color: aqua;
+    font-size: 60px;
+    font-family: 'Poppins',sans-serif;
+}
+p{
+    background-color: rgb(190, 203, 170);
+    font-size: 40px;
+    color: bisque;
+}
